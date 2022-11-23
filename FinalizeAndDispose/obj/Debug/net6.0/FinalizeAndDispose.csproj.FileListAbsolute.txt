@@ -1,0 +1,15 @@
+D:\Projects dotNet\AllSortsOfThings\FinalizeAndDispose\bin\Debug\net6.0\FinalizeAndDispose.exe
+D:\Projects dotNet\AllSortsOfThings\FinalizeAndDispose\bin\Debug\net6.0\FinalizeAndDispose.deps.json
+D:\Projects dotNet\AllSortsOfThings\FinalizeAndDispose\bin\Debug\net6.0\FinalizeAndDispose.runtimeconfig.json
+D:\Projects dotNet\AllSortsOfThings\FinalizeAndDispose\bin\Debug\net6.0\FinalizeAndDispose.dll
+D:\Projects dotNet\AllSortsOfThings\FinalizeAndDispose\bin\Debug\net6.0\FinalizeAndDispose.pdb
+D:\Projects dotNet\AllSortsOfThings\FinalizeAndDispose\obj\Debug\net6.0\FinalizeAndDispose.csproj.AssemblyReference.cache
+D:\Projects dotNet\AllSortsOfThings\FinalizeAndDispose\obj\Debug\net6.0\FinalizeAndDispose.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects dotNet\AllSortsOfThings\FinalizeAndDispose\obj\Debug\net6.0\FinalizeAndDispose.AssemblyInfoInputs.cache
+D:\Projects dotNet\AllSortsOfThings\FinalizeAndDispose\obj\Debug\net6.0\FinalizeAndDispose.AssemblyInfo.cs
+D:\Projects dotNet\AllSortsOfThings\FinalizeAndDispose\obj\Debug\net6.0\FinalizeAndDispose.csproj.CoreCompileInputs.cache
+D:\Projects dotNet\AllSortsOfThings\FinalizeAndDispose\obj\Debug\net6.0\FinalizeAndDispose.dll
+D:\Projects dotNet\AllSortsOfThings\FinalizeAndDispose\obj\Debug\net6.0\refint\FinalizeAndDispose.dll
+D:\Projects dotNet\AllSortsOfThings\FinalizeAndDispose\obj\Debug\net6.0\FinalizeAndDispose.pdb
+D:\Projects dotNet\AllSortsOfThings\FinalizeAndDispose\obj\Debug\net6.0\FinalizeAndDispose.genruntimeconfig.cache
+D:\Projects dotNet\AllSortsOfThings\FinalizeAndDispose\obj\Debug\net6.0\ref\FinalizeAndDispose.dll

@@ -1,0 +1,15 @@
+D:\Projects dotNet\AllSortsOfThings\Tasks\bin\Debug\net6.0\Tasks.exe
+D:\Projects dotNet\AllSortsOfThings\Tasks\bin\Debug\net6.0\Tasks.deps.json
+D:\Projects dotNet\AllSortsOfThings\Tasks\bin\Debug\net6.0\Tasks.runtimeconfig.json
+D:\Projects dotNet\AllSortsOfThings\Tasks\bin\Debug\net6.0\Tasks.dll
+D:\Projects dotNet\AllSortsOfThings\Tasks\bin\Debug\net6.0\Tasks.pdb
+D:\Projects dotNet\AllSortsOfThings\Tasks\obj\Debug\net6.0\Tasks.csproj.AssemblyReference.cache
+D:\Projects dotNet\AllSortsOfThings\Tasks\obj\Debug\net6.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects dotNet\AllSortsOfThings\Tasks\obj\Debug\net6.0\Tasks.AssemblyInfoInputs.cache
+D:\Projects dotNet\AllSortsOfThings\Tasks\obj\Debug\net6.0\Tasks.AssemblyInfo.cs
+D:\Projects dotNet\AllSortsOfThings\Tasks\obj\Debug\net6.0\Tasks.csproj.CoreCompileInputs.cache
+D:\Projects dotNet\AllSortsOfThings\Tasks\obj\Debug\net6.0\Tasks.dll
+D:\Projects dotNet\AllSortsOfThings\Tasks\obj\Debug\net6.0\refint\Tasks.dll
+D:\Projects dotNet\AllSortsOfThings\Tasks\obj\Debug\net6.0\Tasks.pdb
+D:\Projects dotNet\AllSortsOfThings\Tasks\obj\Debug\net6.0\Tasks.genruntimeconfig.cache
+D:\Projects dotNet\AllSortsOfThings\Tasks\obj\Debug\net6.0\ref\Tasks.dll

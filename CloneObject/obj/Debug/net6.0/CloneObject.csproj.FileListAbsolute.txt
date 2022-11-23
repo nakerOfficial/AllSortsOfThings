@@ -1,0 +1,15 @@
+D:\Projects dotNet\AllSortsOfThings\CloneObject\bin\Debug\net6.0\CloneObject.exe
+D:\Projects dotNet\AllSortsOfThings\CloneObject\bin\Debug\net6.0\CloneObject.deps.json
+D:\Projects dotNet\AllSortsOfThings\CloneObject\bin\Debug\net6.0\CloneObject.runtimeconfig.json
+D:\Projects dotNet\AllSortsOfThings\CloneObject\bin\Debug\net6.0\CloneObject.dll
+D:\Projects dotNet\AllSortsOfThings\CloneObject\bin\Debug\net6.0\CloneObject.pdb
+D:\Projects dotNet\AllSortsOfThings\CloneObject\obj\Debug\net6.0\CloneObject.csproj.AssemblyReference.cache
+D:\Projects dotNet\AllSortsOfThings\CloneObject\obj\Debug\net6.0\CloneObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects dotNet\AllSortsOfThings\CloneObject\obj\Debug\net6.0\CloneObject.AssemblyInfoInputs.cache
+D:\Projects dotNet\AllSortsOfThings\CloneObject\obj\Debug\net6.0\CloneObject.AssemblyInfo.cs
+D:\Projects dotNet\AllSortsOfThings\CloneObject\obj\Debug\net6.0\CloneObject.csproj.CoreCompileInputs.cache
+D:\Projects dotNet\AllSortsOfThings\CloneObject\obj\Debug\net6.0\CloneObject.dll
+D:\Projects dotNet\AllSortsOfThings\CloneObject\obj\Debug\net6.0\refint\CloneObject.dll
+D:\Projects dotNet\AllSortsOfThings\CloneObject\obj\Debug\net6.0\CloneObject.pdb
+D:\Projects dotNet\AllSortsOfThings\CloneObject\obj\Debug\net6.0\CloneObject.genruntimeconfig.cache
+D:\Projects dotNet\AllSortsOfThings\CloneObject\obj\Debug\net6.0\ref\CloneObject.dll

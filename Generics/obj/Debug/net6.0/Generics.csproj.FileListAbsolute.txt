@@ -1,0 +1,15 @@
+D:\Projects dotNet\AllSortsOfThings\Generics\bin\Debug\net6.0\Generics.exe
+D:\Projects dotNet\AllSortsOfThings\Generics\bin\Debug\net6.0\Generics.deps.json
+D:\Projects dotNet\AllSortsOfThings\Generics\bin\Debug\net6.0\Generics.runtimeconfig.json
+D:\Projects dotNet\AllSortsOfThings\Generics\bin\Debug\net6.0\Generics.dll
+D:\Projects dotNet\AllSortsOfThings\Generics\bin\Debug\net6.0\Generics.pdb
+D:\Projects dotNet\AllSortsOfThings\Generics\obj\Debug\net6.0\Generics.csproj.AssemblyReference.cache
+D:\Projects dotNet\AllSortsOfThings\Generics\obj\Debug\net6.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects dotNet\AllSortsOfThings\Generics\obj\Debug\net6.0\Generics.AssemblyInfoInputs.cache
+D:\Projects dotNet\AllSortsOfThings\Generics\obj\Debug\net6.0\Generics.AssemblyInfo.cs
+D:\Projects dotNet\AllSortsOfThings\Generics\obj\Debug\net6.0\Generics.csproj.CoreCompileInputs.cache
+D:\Projects dotNet\AllSortsOfThings\Generics\obj\Debug\net6.0\Generics.dll
+D:\Projects dotNet\AllSortsOfThings\Generics\obj\Debug\net6.0\refint\Generics.dll
+D:\Projects dotNet\AllSortsOfThings\Generics\obj\Debug\net6.0\Generics.pdb
+D:\Projects dotNet\AllSortsOfThings\Generics\obj\Debug\net6.0\Generics.genruntimeconfig.cache
+D:\Projects dotNet\AllSortsOfThings\Generics\obj\Debug\net6.0\ref\Generics.dll

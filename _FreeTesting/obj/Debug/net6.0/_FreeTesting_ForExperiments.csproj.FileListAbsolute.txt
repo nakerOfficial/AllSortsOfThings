@@ -1,0 +1,15 @@
+D:\Projects dotNet\AllSortsOfThings\_FreeTesting\bin\Debug\net6.0\_FreeTesting_ForExperiments.exe
+D:\Projects dotNet\AllSortsOfThings\_FreeTesting\bin\Debug\net6.0\_FreeTesting_ForExperiments.deps.json
+D:\Projects dotNet\AllSortsOfThings\_FreeTesting\bin\Debug\net6.0\_FreeTesting_ForExperiments.runtimeconfig.json
+D:\Projects dotNet\AllSortsOfThings\_FreeTesting\bin\Debug\net6.0\_FreeTesting_ForExperiments.dll
+D:\Projects dotNet\AllSortsOfThings\_FreeTesting\bin\Debug\net6.0\_FreeTesting_ForExperiments.pdb
+D:\Projects dotNet\AllSortsOfThings\_FreeTesting\obj\Debug\net6.0\_FreeTesting_ForExperiments.csproj.AssemblyReference.cache
+D:\Projects dotNet\AllSortsOfThings\_FreeTesting\obj\Debug\net6.0\_FreeTesting_ForExperiments.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects dotNet\AllSortsOfThings\_FreeTesting\obj\Debug\net6.0\_FreeTesting_ForExperiments.AssemblyInfoInputs.cache
+D:\Projects dotNet\AllSortsOfThings\_FreeTesting\obj\Debug\net6.0\_FreeTesting_ForExperiments.AssemblyInfo.cs
+D:\Projects dotNet\AllSortsOfThings\_FreeTesting\obj\Debug\net6.0\_FreeTesting_ForExperiments.csproj.CoreCompileInputs.cache
+D:\Projects dotNet\AllSortsOfThings\_FreeTesting\obj\Debug\net6.0\_FreeTesting_ForExperiments.dll
+D:\Projects dotNet\AllSortsOfThings\_FreeTesting\obj\Debug\net6.0\refint\_FreeTesting_ForExperiments.dll
+D:\Projects dotNet\AllSortsOfThings\_FreeTesting\obj\Debug\net6.0\_FreeTesting_ForExperiments.pdb
+D:\Projects dotNet\AllSortsOfThings\_FreeTesting\obj\Debug\net6.0\_FreeTesting_ForExperiments.genruntimeconfig.cache
+D:\Projects dotNet\AllSortsOfThings\_FreeTesting\obj\Debug\net6.0\ref\_FreeTesting_ForExperiments.dll

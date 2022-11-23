@@ -1,0 +1,15 @@
+D:\Projects dotNet\AllSortsOfThings\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.exe
+D:\Projects dotNet\AllSortsOfThings\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.deps.json
+D:\Projects dotNet\AllSortsOfThings\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.runtimeconfig.json
+D:\Projects dotNet\AllSortsOfThings\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.dll
+D:\Projects dotNet\AllSortsOfThings\ExtensionMethod\bin\Debug\net6.0\ExtensionMethod.pdb
+D:\Projects dotNet\AllSortsOfThings\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.csproj.AssemblyReference.cache
+D:\Projects dotNet\AllSortsOfThings\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects dotNet\AllSortsOfThings\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.AssemblyInfoInputs.cache
+D:\Projects dotNet\AllSortsOfThings\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.AssemblyInfo.cs
+D:\Projects dotNet\AllSortsOfThings\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+D:\Projects dotNet\AllSortsOfThings\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.dll
+D:\Projects dotNet\AllSortsOfThings\ExtensionMethod\obj\Debug\net6.0\refint\ExtensionMethod.dll
+D:\Projects dotNet\AllSortsOfThings\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.pdb
+D:\Projects dotNet\AllSortsOfThings\ExtensionMethod\obj\Debug\net6.0\ExtensionMethod.genruntimeconfig.cache
+D:\Projects dotNet\AllSortsOfThings\ExtensionMethod\obj\Debug\net6.0\ref\ExtensionMethod.dll

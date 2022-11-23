@@ -1,0 +1,15 @@
+D:\Projects dotNet\AllSortsOfThings\StackAndHeap\bin\Debug\net6.0\StackAndHeap.exe
+D:\Projects dotNet\AllSortsOfThings\StackAndHeap\bin\Debug\net6.0\StackAndHeap.deps.json
+D:\Projects dotNet\AllSortsOfThings\StackAndHeap\bin\Debug\net6.0\StackAndHeap.runtimeconfig.json
+D:\Projects dotNet\AllSortsOfThings\StackAndHeap\bin\Debug\net6.0\StackAndHeap.dll
+D:\Projects dotNet\AllSortsOfThings\StackAndHeap\bin\Debug\net6.0\StackAndHeap.pdb
+D:\Projects dotNet\AllSortsOfThings\StackAndHeap\obj\Debug\net6.0\StackAndHeap.csproj.AssemblyReference.cache
+D:\Projects dotNet\AllSortsOfThings\StackAndHeap\obj\Debug\net6.0\StackAndHeap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects dotNet\AllSortsOfThings\StackAndHeap\obj\Debug\net6.0\StackAndHeap.AssemblyInfoInputs.cache
+D:\Projects dotNet\AllSortsOfThings\StackAndHeap\obj\Debug\net6.0\StackAndHeap.AssemblyInfo.cs
+D:\Projects dotNet\AllSortsOfThings\StackAndHeap\obj\Debug\net6.0\StackAndHeap.csproj.CoreCompileInputs.cache
+D:\Projects dotNet\AllSortsOfThings\StackAndHeap\obj\Debug\net6.0\StackAndHeap.dll
+D:\Projects dotNet\AllSortsOfThings\StackAndHeap\obj\Debug\net6.0\refint\StackAndHeap.dll
+D:\Projects dotNet\AllSortsOfThings\StackAndHeap\obj\Debug\net6.0\StackAndHeap.pdb
+D:\Projects dotNet\AllSortsOfThings\StackAndHeap\obj\Debug\net6.0\StackAndHeap.genruntimeconfig.cache
+D:\Projects dotNet\AllSortsOfThings\StackAndHeap\obj\Debug\net6.0\ref\StackAndHeap.dll
